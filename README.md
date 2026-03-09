@@ -1,5 +1,5 @@
 # Ziro
-**Digital Planner ➔ AI/SW Developer**
+**Digital Planner ➔ AI/SW Engineer**
 
 ### 📋 Overview
 - **Focus**: Problem Definition & Structural Development
