@@ -23,6 +23,7 @@
 **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white) 
 ![React Native](https://img.shields.io/badge/ReactNative-000000?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
 
 **Enterprise UI Framework**
 ![Nexacro](https://img.shields.io/badge/Nexacro-000000?style=flat-square&logo=tizen&logoColor=white)
