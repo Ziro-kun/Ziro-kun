@@ -52,7 +52,7 @@
 ![Slack](https://img.shields.io/badge/Slack-000000?style=flat-square&logo=slack&logoColor=white)
 
 ### 🔗 Contact
-- [Email](mailto:polly.saids@gmail.com) / [Blog]([https://ziro-kun.github.io/])
+- [Email](mailto:polly.saids@gmail.com) / [Blog](https://ziro-kun.github.io/)
 
 - ### 🖥️ My Hybrid Workspace
 
