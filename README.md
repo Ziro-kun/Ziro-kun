@@ -1,10 +1,10 @@
 # Ziro
-**Digital Planner ➔ AI/SW Engineer**
+**Digital Planner ➔ AI/SW Engineer candidate ➔ Pre-sales Engineer(SE), AI Solutions**
 
 ### 📋 Overview
 - **Focus**: Problem Definition & Structural Development
 - **Experience**: AI·Digital Policy & R&D Planning
-- **Learning**: AI/SW Engineering (Current)
+- **Learning**: AI/SW Engineering 
 
 ### 🛠 Tech Stack (Enhanced)
 
