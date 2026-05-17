@@ -59,5 +59,4 @@
 | Device | OS | Role | Tech Highlights |
 | :--- | :--- | :--- | :--- |
 | **MacBook Air** | macOS | Main Dev & AI Study | M4 (10-core) / 16GB / 512GB |
-| **Asus Zenbook** | Linux | `OpenClaw` & Testing | Syncthing / Tailscale / SSH |
 | **Desktop** | Windows | Gaming & Documents | Chrome Remote Desktop |
